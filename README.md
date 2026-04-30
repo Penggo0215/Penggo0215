@@ -18,14 +18,14 @@
 <!-- Technologies -->
 <table>
   <tr>
-    <!-- Core (基础能力，弱化) -->
+    <!-- Core -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
     </td>
-    <!-- Frontend (主力) -->
+    <!-- Frontend -->
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
     </td>
@@ -38,7 +38,10 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
     </td>
-    <!-- Build -->
+    <!-- Build Tools（重点） -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="Webpack" />
     </td>
