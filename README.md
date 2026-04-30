@@ -18,55 +18,56 @@
 <!-- Technologies -->
 <table>
   <tr>
-    <!-- Frontend -->
+    <!-- Core (基础能力，弱化) -->
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+    </td>
+    <!-- Frontend (主力) -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="48" height="48" alt="sass" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="javascript" />
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="typescript" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
     </td>
+    <!-- Build -->
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="react" />
-    </td>
-    <!-- Build Tools -->
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="webpack" />
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="Webpack" />
     </td>
     <!-- Backend -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="48" height="48" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
     </td>
     <!-- Dev Tools -->
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="48" height="48" alt="Prettier" />
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="testing library" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" width="48" height="48" alt="Testing Library" />
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=neovim"  width="48" height="48" alt="neovim" />
+      <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
     </td>
-    <!-- Infrastructure -->
+    <!-- Infra -->
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="48" height="48"  alt="docker" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
     </td>
   </tr>
 </table>
