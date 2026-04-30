@@ -22,7 +22,6 @@
     <tr>
       <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="neovim logo"  />
     </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
