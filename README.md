@@ -58,8 +58,17 @@
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="48" height="48" />
     </td>
-       <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+    </td>
+            <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+    </td>
+            <td align="center" width="96">
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
     </td>
     </tr>
 </table>
