@@ -19,58 +19,110 @@
 <table>
   <tr>
     <!-- Core -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=html" width="42" height="42" alt="HTML" />
+      <br/>
+      <sub><b>HTML</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=css" width="42" height="42" alt="CSS" />
+      <br/>
+      <sub><b>CSS</b></sub>
     </td>
+
     <!-- Frontend -->
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="42" height="42" alt="JavaScript" />
+      <br/>
+      <sub><b>JavaScript</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
+
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="42" height="42" alt="TypeScript" />
+      <br/>
+      <sub><b>TypeScript</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="42" height="42" alt="TailwindCSS" />
+      <br/>
+      <sub><b>Tailwind</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="46" height="46" alt="React" />
+      <br/>
+      <sub><b>React</b></sub>
     </td>
-    <!-- Build Tools（重点） -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=vue" width="42" height="42" alt="Vue" />
+      <br/>
+      <sub><b>Vue</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="Webpack" />
+
+    <!-- Build Tools -->
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=vite" width="42" height="42" alt="Vite" />
+      <br/>
+      <sub><b>Vite</b></sub>
     </td>
+
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="42" height="42" alt="Webpack" />
+      <br/>
+      <sub><b>Webpack</b></sub>
+    </td>
+
     <!-- Backend -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="44" height="44" alt="Node.js" />
+      <br/>
+      <sub><b>Node.js</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="42" height="42" alt="Python" />
+      <br/>
+      <sub><b>Python</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" />
+
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="42" height="42" alt="Django" />
+      <br/>
+      <sub><b>Django</b></sub>
     </td>
-    <!-- Dev Tools -->
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="48" height="48" alt="Prettier" />
+
+    <!-- Tools -->
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="38" height="38" alt="Prettier" />
+      <br/>
+      <sub><b>Prettier</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" width="48" height="48" alt="Testing Library" />
+
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" width="38" height="38" alt="Testing Library" />
+      <br/>
+      <sub><b>Testing</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+
+    <td align="center" width="88">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="38" height="38" alt="GitHub" />
+      <br/>
+      <sub><b>GitHub</b></sub>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
+
+    <td align="center" width="88">
+      <img src="https://skillicons.dev/icons?i=neovim" width="38" height="38" alt="Neovim" />
+      <br/>
+      <sub><b>Neovim</b></sub>
     </td>
+
     <!-- Infra -->
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+    <td align="center" width="88">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+      <br/>
+      <sub><b>Docker</b></sub>
     </td>
   </tr>
 </table>
