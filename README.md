@@ -20,68 +20,42 @@
   <tr>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=html" width="44" />
-      <br />
-      <sub>HTML</sub>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=css" width="44" />
-      <br />
-      <sub>CSS</sub>
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="44" />
-      <br />
-      <sub>JavaScript</sub>
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="44" />
-      <br />
-      <sub>TypeScript</sub>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=tailwind" width="44" />
-      <br />
-      <sub>Tailwind</sub>
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="46" />
-      <br />
-      <sub>React</sub>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vue" width="44" />
-      <br />
-      <sub>Vue</sub>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=vite" width="44" />
-      <br />
-      <sub>Vite</sub>
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="44" />
-      <br />
-      <sub>Webpack</sub>
     </td>
     <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=nodejs" width="46" />
-      <br />
-      <sub>Node.js</sub>
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="44" />
-      <br />
-      <sub>Python</sub>
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" width="44" />
-      <br />
-      <sub>Django</sub>
     </td>
     <td align="center" width="100">
       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="40" />
-      <br />
-      <sub>Prettier</sub>
     </td>
   </tr>
 </table>
